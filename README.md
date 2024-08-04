@@ -42,7 +42,7 @@ Python crie a sua primeira aplicação
 
 ## 👩🏽‍💻Autora
 
-<img style="border-radius: 50%;" src="https://i.imgur.com/n7iVrD1.png" width="100px;" alt=""/>
+<img style="border-radius: 50%;" src="https://i.imgur.com/n7iVrD1.png" title="Foto da autora Joice" width="100px;" alt=""/>
  <b>Joice Simão</b>
 
 ![curtida](https://img.shields.io/badge/Feito%20com-%E2%9D%A4-red.svg?style=flat)
